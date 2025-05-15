@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #ebf1f9;
+  font-size: 20px;
+  color: #c65858;
+}
+
+h1 {
+  color: gray;
+}
